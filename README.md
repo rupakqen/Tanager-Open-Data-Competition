@@ -2,7 +2,7 @@
 
 An advanced hyperspectral analysis pipeline leveraging spaceborne imagery (Tanager-1 data) over Jacksonville, Florida. This repository provides end-to-end workflows to decouple atmospheric interference, map thermodynamic radiative forcing, profile synthetic urban polymers, and monitor solar-induced fluorescence (SIF).
 
-<img src="https://github.com/rupakqen/Tanager-Open-Data-Competition/blob/d24771c7d68eee8ea97cdb81991dbe8bdc4f0720/assets/diagram.jpg?raw=true" alt="Project Teaser" width="100%" />
+<img src="https://github.com/rupakqen/Tanager-Open-Data-Competition/blob/d45557d31eab0140eb40d08fae281ff01bdd739a/assets/diagram.jpg?raw=true" alt="Project Teaser" width="100%" />
 
 ---
 
