@@ -2,7 +2,7 @@
 
 An advanced hyperspectral analysis pipeline leveraging spaceborne imagery (Tanager-1 data) over Jacksonville, Florida. This repository provides end-to-end workflows to decouple atmospheric interference, map thermodynamic radiative forcing, profile synthetic urban polymers, and monitor solar-induced fluorescence (SIF).
 
-![Project Teaser](https://github.com/rupakqen/Tanager-Open-Data-Competition/blob/d24771c7d68eee8ea97cdb81991dbe8bdc4f0720/assets/diagram.jpg)
+<img src="https://github.com/rupakqen/Tanager-Open-Data-Competition/blob/d24771c7d68eee8ea97cdb81991dbe8bdc4f0720/assets/diagram.jpg?raw=true" alt="Project Teaser" width="100%" />
 
 ---
 
@@ -29,4 +29,21 @@ Key capabilities include:
 ├── notebooks/                # Execution notebooks for spectral indexing & mapping
 ├── requirements.txt          # Python dependencies for environment setup
 └── README.md                 # Project documentation
+```
+
+## Installation & Setup
+
+Ensure you have Python 3.9 or higher installed. Clone this repository and set up the environment using `requirements.txt`:
+
+```bash
+# Clone the repository
+git clone [https://github.com/rupakqen/Tanager-Open-Data-Competition.git](https://github.com/rupakqen/Tanager-Open-Data-Competition.git)
+cd Tanager-Open-Data-Competition
+
+# Create and activate a virtual environment (optional but recommended)
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+
+# Install required dependencies
+pip install -r requirements.txt
 ```
